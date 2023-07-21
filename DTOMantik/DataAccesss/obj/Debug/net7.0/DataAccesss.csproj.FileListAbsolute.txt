@@ -1,0 +1,17 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\bin\Debug\net7.0\DataAccesss.deps.json
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\bin\Debug\net7.0\DataAccesss.runtimeconfig.json
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\bin\Debug\net7.0\DataAccesss.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\bin\Debug\net7.0\DataAccesss.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\bin\Debug\net7.0\CoreLayer.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\bin\Debug\net7.0\CoreLayer.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.AssemblyInfoInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.AssemblyInfo.cs
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.csproj.CopyComplete
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\refint\DataAccesss.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\DataAccesss.genruntimeconfig.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\DTOMantik\DataAccesss\obj\Debug\net7.0\ref\DataAccesss.dll

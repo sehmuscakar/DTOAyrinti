@@ -1,0 +1,79 @@
+﻿@model IList<DataAccesss.Entities.Dtos.StudentListDto>
+
+@{
+    ViewData["Title"] = "IndexDto";
+}
+
+
+<h1>
+    Öğreenci listesi DTO ile
+
+</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Adı")
+               @* @Html.DisplayNameFor(model => model.Name)*@
+            </th>
+            <th>
+                @Html.DisplayName("Soyadı")
+           @*     @Html.DisplayNameFor(model => model.Surname)*@
+            </th>
+            <th>
+                @Html.DisplayName("Cinsiyet")
+            @*    @Html.DisplayNameFor(model => model.University)*@
+            </th>
+            <th>
+                @Html.DisplayName("Üniversite Adı")
+   @*             @Html.DisplayNameFor(model => model.CreatedAt)*@
+            </th>
+            <th>
+                @Html.DisplayName("Eklendiği Tarih")
+          @*      @Html.DisplayNameFor(model => model.UpdatedAt)*@
+            </th>
+            <th>
+                @Html.DisplayName("Ekleyen Kişi ")
+                @*      @Html.DisplayNameFor(model => model.DeletedAt)*@
+            </th>
+     
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cinsiyet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UniversityName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedAt)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedUserName)
+                </td>
+              
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
